@@ -1,0 +1,6 @@
+/* Styles for todoCounter */
+.counter {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
