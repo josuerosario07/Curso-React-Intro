@@ -105,6 +105,18 @@ ul {
   }
 
   li .status-list {
-    background-color: red;
+    color: green;
+  }
+
+  li .icon-delete {
+    padding: 10px;
+  }
+
+  li .icon-delete:hover {
+    color: red;
+  }
+
+  li .icon-delete:focus {
+    border-color: red 1px solid;
   }
 }
